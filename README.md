@@ -1,5 +1,7 @@
 ## Hi there 👋
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/7aa09b5e-eefe-4695-8c0e-a1077311ae70" title="LFS101: Introduction to Linux"><img src="https://images.credly.com/size/80x80/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob" alt="LFS101: Introduction to Linux" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/51a4812d-b1a8-43f1-9897-9756777616ba" title="LFS162: Introduction to DevOps and Site Reliability Engineering"><img src="https://images.credly.com/size/80x80/images/2397c05c-eb0e-4b08-be97-9e8261d43125/blob" alt="LFS162: Introduction to DevOps and Site Reliability Engineering" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 <!--
 **natkin-dpz/natkin-dpz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
